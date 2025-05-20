@@ -1,4 +1,4 @@
-module allroutes
+module github.com/slash3b/allroutes
 
 go 1.24
 
